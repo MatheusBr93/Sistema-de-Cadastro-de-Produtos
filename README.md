@@ -29,10 +29,14 @@ IntelliJ IDEA (IDE utilizada no desenvolvimento)
 src/
  ├── main/
  │    └── Main.java
+ 
  ├── model/
+ 
  │    └── Produto.java
+ 
  └── service/
       └── ProdutoService.java
+      
  model/ → classes de entidades (Produto)
 
 service/ → regras de negócio (ProdutoService)
@@ -49,11 +53,17 @@ Execute a classe Main.java.
 
 O menu aparecerá no console:
 === MENU ===
+
 1 - Cadastrar produto
+
 2 - Listar produtos
+
 3 - Atualizar produto
+
 4 - Remover produto
+
 0 - Sair
+
 📌 Melhorias Futuras
 
 Salvar os produtos em arquivo (.txt ou .csv).
