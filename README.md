@@ -28,6 +28,7 @@ IntelliJ IDEA (IDE utilizada no desenvolvimento)
 
 src/
  ├── main/
+ 
  │    └── Main.java
  
  ├── model/
@@ -35,7 +36,8 @@ src/
  │    └── Produto.java
  
  └── service/
-      └── ProdutoService.java
+ 
+ │    └── ProdutoService.java
       
  model/ → classes de entidades (Produto)
 
