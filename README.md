@@ -42,6 +42,7 @@ main/ → ponto de entrada do programa (Main)
 ▶️ Como executar o projeto
 
 Clone o repositório: git clone https://github.com/MatheusBr93/Sistema-de-Cadastro-de-Produtos.git
+
 Abra o projeto no IntelliJ IDEA (ou outra IDE de sua preferência).
 
 Execute a classe Main.java.
